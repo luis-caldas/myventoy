@@ -1,0 +1,14 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_DEFAULT_KBD_LAYOUT": "QWERTY_UK" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/isos" },
+        { "VTOY_TEXT_MENU_VER": "Custom ISOs Boot" }
+    ],
+    "theme":{
+        "display_mode": "CLI"
+    },
+    "password":{
+        "bootpwd": "md5#7kbw#f4e73c0b2425c4fa8bdaddc9dc94eb5d"
+    }
+}
