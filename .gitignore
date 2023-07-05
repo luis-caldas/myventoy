@@ -1,0 +1,7 @@
+# Hiddenfiles
+.*
+!.gitignore
+
+# ISOs
+isos/*
+!isos/*.md
