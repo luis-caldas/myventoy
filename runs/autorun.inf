@@ -1,0 +1,3 @@
+[autorun]
+label=USB Drive
+icon=%WINDIR%\system32\shell32.dll,44
