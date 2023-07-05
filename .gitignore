@@ -5,3 +5,7 @@
 # ISOs
 isos/*
 !isos/*.md
+
+# Custom Software
+software/*
+!software/*.md
