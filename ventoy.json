@@ -2,13 +2,13 @@
     "control":[
         { "VTOY_DEFAULT_MENU_MODE": "1" },
         { "VTOY_DEFAULT_KBD_LAYOUT": "QWERTY_UK" },
-        { "VTOY_DEFAULT_SEARCH_ROOT": "/ventoy/isos" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISOs" },
         { "VTOY_TEXT_MENU_VER": "Custom ISOs Boot" }
     ],
     "theme":{
         "display_mode": "CLI"
     },
     "password":{
-        "bootpwd": "md5#7kbw#f4e73c0b2425c4fa8bdaddc9dc94eb5d"
+        "bootpwd": "md5#oXE^9p#DZ#9&25dh#44f697b7174414d592f51c98ce9b7d5c"
     }
 }
